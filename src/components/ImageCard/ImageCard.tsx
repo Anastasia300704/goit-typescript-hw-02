@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './ImageCard.module.css';
 import { ImageType } from '../../types';
 
 type Props = {
